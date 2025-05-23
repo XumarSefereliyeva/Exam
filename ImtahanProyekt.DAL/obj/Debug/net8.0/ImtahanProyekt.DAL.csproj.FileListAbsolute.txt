@@ -1,0 +1,14 @@
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\bin\Debug\net8.0\ImtahanProyekt.DAL.deps.json
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\bin\Debug\net8.0\ImtahanProyekt.DAL.runtimeconfig.json
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\bin\Debug\net8.0\ImtahanProyekt.DAL.dll
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\bin\Debug\net8.0\ImtahanProyekt.DAL.pdb
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.dll
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\refint\ImtahanProyekt.DAL.dll
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.pdb
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ImtahanProyekt.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\fexreddinstudios\ImtahanProyekt\ImtahanProyekt.DAL\obj\Debug\net8.0\ref\ImtahanProyekt.DAL.dll
